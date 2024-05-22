@@ -1,4 +1,4 @@
-# Wiki Vote Network Analysis Data Mining and Node Classification with ML and GCN models
+# Wiki Vote Network Analysis: Data Mining and Node Classification with ML and GCN models
 
 This project conducts an in-depth analysis of the Wiki Vote network dataset, first employing data mining techniques to extract key information and identify community structures. Subsequently, machine learning algorithms and a Graph Convolutional Network (GCN) model are applied for node classification tasks, aiming to gain insights into network topology and effective classification methods.
 
